@@ -1,0 +1,27 @@
+[
+  { "id": "", "sku": "PP-LA-001", "name": "bbq", "owner": "warner" },
+  {
+    "id": "",
+    "sku": "PP-LA-002",
+    "name": "instant coffee",
+    "owner": "star"
+  },
+  { "id": "", "sku": "PP-LA-003", "name": "instant breakfast", "owner": "tom" },
+  { "id": "", "sku": "PP-LA-004", "name": "instant sushi", "owner": "warner" },
+  {
+    "id": "",
+    "sku": "PP-LA-005",
+    "name": "instant tea",
+    "owner": "star"
+  },
+  { "id": "", "sku": "PP-LA-006", "name": "instant tea", "owner": "tom" },
+  { "id": "", "sku": "PP-LA-007", "name": "instant coffee", "owner": "warner" },
+  {
+    "id": "",
+    "sku": "PP-LA-008",
+    "name": "frozen",
+    "owner": "star"
+  },
+  { "id": "", "sku": "PP-LA-009", "name": "instant coffee", "owner": "tom" },
+  { "id": "", "sku": "PP-LA-010", "name": "instant tea", "owner": "warner" }
+]
